@@ -1,4 +1,4 @@
-# Obligatorisk oppgave 1 V26
+# Obligatorisk oppgave 1 V26 Suleman Ahmed
 
 Denne oppgaven utgjør en del av arbeidskravet i DATA1500 våren 2026. 
 
